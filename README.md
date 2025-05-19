@@ -56,9 +56,9 @@ Este repositório documenta minha evolução na área de Cibersegurança, desde 
 ---
 
 ## 📍 Conecte-se comigo
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-henrique-584b80301/))
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-henrique-584b80301/)
 - [YouTube](https://youtube.com/@seu-canal)
-- [Instagram]([https://instagram.com/seuuser](https://instagram.com/matheus.goti7))
+- [Instagram]([https://instagram.com/seuuser](https://instagram.com/matheus.goti7)
 
 ---
 
